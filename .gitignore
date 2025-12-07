@@ -1,0 +1,7 @@
+# Ignore raw CTU-13 dataset files
+*.binetflow
+CTU-13-Dataset/
+*.tar.bz2
+
+# Ignore OS / editor junk
+.DS_Store
