@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/raw/*.binetflow
+outputs/
+!outputs/metrics/results.csv
+!outputs/figures/*.png
